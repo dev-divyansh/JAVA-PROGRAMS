@@ -1,18 +1,18 @@
-# 📌 Introduction to Array List in JAVA
+#  Introduction to Array List in JAVA
 
 >Author : Divyansh Pratap Singh [ Twitter - Handle ](https://twitter.com/dev_pratap3250)
 
 
 
 
-##📌 Difference between ArrayList & Arrays
+## Difference between ArrayList & Arrays
 Arraylist | Array
 :-- | --:
 They have variable size . | They have fixed size .
 non-continous memory allocation | continous memory allocation
 can store only objects | can store primitive types ex. int , float and also objects
 
-##  📌Important Operations to perform on ArrayList : 
+##  Important Operations to perform on ArrayList : 
 1. Add element 
 1. delete element
 1. display or get element
@@ -20,7 +20,7 @@ can store only objects | can store primitive types ex. int , float and also obje
 1. print ArrayList
 1. size of ArrayList
 
-## 📌 Defining ArrayList
+##  Defining ArrayList
 
  Before defining ArrayList we need to import it from the scanner class.
 
@@ -43,7 +43,7 @@ public class  Alst{
 
 ```
 
-## 📌Adding element in ArrayList
+## Adding element in ArrayList
 
 To add element in ArrayList we use add( ) function
 
@@ -79,7 +79,7 @@ public class  Alst{
 ```
 
 
-#### 📌Adding element at particular position in ArrayList
+#### Adding element at particular position in ArrayList
 
 
 add( ) function adds an element at the end of the arraylist if we wish to add element at a particular  index position 
@@ -96,7 +96,7 @@ lst.add(1,5);
 
 
 
-##📌printing entire ArrayList
+##printing entire ArrayList
 
 Syntax for printing ArrayList named lst
 
@@ -104,7 +104,7 @@ Syntax for printing ArrayList named lst
 System.out.println(lst);
 ```
 
-## 📌printing  particular element of ArrayList
+## printing  particular element of ArrayList
 
 to print a particular element of a ArrayList we use get( ) function
 inside the get( ) function we pass the index position of element
@@ -114,7 +114,7 @@ int i = lst.get(0);
 System.out.println(i);
 ```
 
-## 📌Getting Size of ArrayList
+## Getting Size of ArrayList
 
 to get the size of the arraylist we use size( ) function
 
@@ -129,7 +129,7 @@ Syntax :
 ```
 
 
-## 📌Deleting an element from ArrayList
+## Deleting an element from ArrayList
 
 to delete a element from ArrayList we use remove()  function and inside this we pass the index position of the element we want to remove
 
@@ -168,7 +168,7 @@ public class  Alst{
 
 ```
 
-## 📌 Updating  an element in arraylist
+##  Updating  an element in arraylist
 
 to update a element  in arraylist we use set( ) function and pass 2  values 
 set(< index position of element > < new  value >)
