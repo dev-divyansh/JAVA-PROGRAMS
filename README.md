@@ -1,10 +1,14 @@
 # JAVA-PROGRAMS
 This repository aims  to provide java  programs for beginners to intermediate to advance level under one roof  . 
 
+# Folders 
+
+- [Java  Program for Beginners](/Basic-Java)
+- [ data-structures & Algo ](/DSA-JAVA-Concepts)
 
 # Programs
 
-- [Implementing ArrayList ](/DSA-JAVA-Concepts/arraylist.md)
+- [Introduction to ArrayList ](/DSA-JAVA-Concepts/arraylist.md)
 - [Basic program to add  two numbers ](/Basic-Java/add-two-number.md)
 ## FeedBack
 
