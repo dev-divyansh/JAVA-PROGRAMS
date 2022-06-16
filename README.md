@@ -4,7 +4,7 @@ This repository aims  to provide java  programs for beginners to intermediate to
 # Folders 
 
 - [Java  Program for Beginners](/Basic-Java)
-- [ data-structures & Algo ](/DSA-JAVA-Concepts)
+- [ data-structures & Algo ](/DSA-JAVA)
 
 # Programs
 
